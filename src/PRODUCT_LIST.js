@@ -7,6 +7,8 @@ export const PRODUCT_LIST = [
       "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/acmoik7t1kfbprm8hsqs/vaporfly-4-flyknit-running-shoe-7R7zSn.jpg",
     quantityInCart: 0,
     inCart: false,
+    rating: 0,
+    discount: 0 
   },
   {
     id: 1,
@@ -16,6 +18,8 @@ export const PRODUCT_LIST = [
       "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/vjsleghax3228bpidanh/air-monarch-iv-pr-shoe-qf64pl.jpg",
     quantityInCart: 0,
     inCart: false,
+    rating: 3,
+    discount: 4  
   },
   {
     id: 2,
@@ -25,6 +29,8 @@ export const PRODUCT_LIST = [
       "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/rkhls7wdxdydeg1vkwkt/air-max-deluxe-se-shoe-T6Vkl2.jpg",
     quantityInCart: 0,
     inCart: false,
+    rating: 3,
+    discount: 2
   },
   {
     id: 4,
@@ -34,6 +40,8 @@ export const PRODUCT_LIST = [
       "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/acmoik7t1kfbprm8hsqs/vaporfly-4-flyknit-running-shoe-7R7zSn.jpg",
     quantityInCart: 0,
     inCart: false,
+    rating: 0,
+    discount: 2
   },
   {
     id: 5,
@@ -43,6 +51,8 @@ export const PRODUCT_LIST = [
       "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/vjsleghax3228bpidanh/air-monarch-iv-pr-shoe-qf64pl.jpg",
     quantityInCart: 0,
     inCart: false,
+    rating: 0,
+    discount: 0  
   },
   {
     id: 6,
@@ -52,5 +62,7 @@ export const PRODUCT_LIST = [
       "https://c.static-nike.com/a/images/f_auto,b_rgb:f5f5f5,w_880/rkhls7wdxdydeg1vkwkt/air-max-deluxe-se-shoe-T6Vkl2.jpg",
     quantityInCart: 0,
     inCart: false,
+    rating: 5,
+    discount: 4  
   },
 ];
